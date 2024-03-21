@@ -15,6 +15,9 @@ body{
     background-position: center;
     background-size: cover;
 }
+
+@media only screen and (max-width: 2340px) {
+
 span{
     position: absolute;
     filter: drop-shadow(0 0 1em rgba(0,0,0,0.5));
